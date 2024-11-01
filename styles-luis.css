@@ -1,0 +1,96 @@
+body{
+    background-color:rgb(135, 144, 222);
+}
+
+h2{
+    color: brown;
+    font-family: Arial;
+}
+#mi-nombre{
+    color: darkblue;
+} 
+.carro1{
+    color: red;
+}
+.carro2{
+    color: black;
+}
+.carro3{
+    color:silver;
+}
+
+#caja-1{
+    width: 30em;
+    border-color: black;
+    border-style: solid;
+    background-color: goldenrod;
+}
+
+#caja-2{
+    border-color: red;
+    border-style: solid;
+    background-color:rgb(35, 32, 218);
+}
+
+#caja-3{
+    border-color: yellowgreen;
+    border-style: solid;
+    background-color: aqua;
+}
+.platillo1{
+    color: crimson;
+}
+.platillo2{
+    color: rgb(255, 0, 221);
+}
+.platillo3{
+    color: blueviolet;
+}
+
+#caja-4{                                
+    border-color: blue;
+    border-style: solid;
+    background-color: brown
+}
+.deporte1{
+    color: darkblue;
+}
+.deporte2{
+    color: darkgreen;
+}
+deporte3{
+    color: darkorange;
+}
+
+#caja-5{
+    border-color: darksalmon;
+    border-style: solid;
+    background-color: darkolivegreen;
+}
+.playa1{
+    color: chocolate;
+}
+.playa2{
+    color: coral;
+}
+.playa3{
+    color: darkgoldenrod;
+}
+
+#caja-6{
+    border-color: rgb(160, 95, 120);
+    border-style: solid;
+    background-color: yellowgreen;
+}
+.miusic1{
+    color: crimson;
+}
+.miusic2{
+    color: darkmagenta;
+}
+.miusic3{
+    color: darkred;
+}
+
+     
+
