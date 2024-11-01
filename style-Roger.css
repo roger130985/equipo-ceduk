@@ -1,0 +1,46 @@
+h2 {
+    color:red;
+}
+
+li{
+    color:blue
+}
+body {
+    background-color: rgba(43, 128, 226, 0.664);
+}
+.box{
+    width: 40em;
+    border: 10px solid hwb(224 31% 0%);
+    background-color: hwb(160 31% 32%);
+    padding: 10px 12px;
+}
+.box1{
+    width: 40em;
+    border: 10px solid hwb(56 31% 0%);
+    background-color: hwb(93 31% 32%);
+    padding: 10px 12px;
+}
+.box2{
+    width: 40em;
+    border: 10px solid hwb(19 31% 0%);
+    background-color: hwb(288 31% 32%);
+    padding: 10px 12px;
+}
+.box3{
+    width: 40em;
+    border: 10px solid hwb(204 31% 0%);
+    background-color: hwb(27 31% 32%);
+    padding: 10px 12px; 
+}
+.box4{
+    width: 40em;
+    border: 10px solid hwb(241 31% 0%);
+    background-color: hwb(244 31% 32%);
+    padding: 10px 12px; 
+}
+.box5{
+    width: 40em;
+    border: 10px solid hwb(281 31% 0%);
+    background-color: hwb(278 31% 32%);
+    padding: 10px 12px; 
+}
